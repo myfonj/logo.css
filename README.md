@@ -1,15 +1,18 @@
 # An official logo for CSS
 
-- [Introduction](#introduction)
-- [Logo Usage Guidelines](#logo-usage-guidelines)
-  - [Font](#font)
-  - [Colors](#colors)
-  - [Background](#background)
-  - [Clear Space and Sizing](#clear-space-and-sizing)
-  - [Unacceptable Modifications
-    ](#unacceptable-Modifications)
-  - [Usage on the web](#usage-on-the-web)
-- [Inquiries](#inquiries)
+- [An official logo for CSS](#an-official-logo-for-css)
+  - [Introduction](#introduction)
+  - [Logo Usage Guidelines](#logo-usage-guidelines)
+    - [Font](#font)
+    - [Colors](#colors)
+      - [Main](#main)
+      - [Dark](#dark)
+      - [Light](#light)
+    - [Background](#background)
+    - [Clear Space and Sizing](#clear-space-and-sizing)
+    - [Unacceptable Modifications](#unacceptable-modifications)
+    - [Usage on the web](#usage-on-the-web)
+  - [Inquiries](#inquiries)
 
 ## Introduction
 
@@ -46,7 +49,7 @@ The dark colorway of the logo. It uses black `#000000` as background color and w
 
 #### Light
 
-The light colorway of the logo. It uses white `#FFFFFF` as background color and black `#000000` as font color. This logo should only be used on dark background sto ensure accessibility.
+The light colorway of the logo. It uses white `#FFFFFF` as background color and black `#000000` as font color. This logo should only be used on dark background to ensure accessibility.
 
 ### Background
 
