@@ -1,18 +1,17 @@
 # An official logo for CSS
 
-- [An official logo for CSS](#an-official-logo-for-css)
-  - [Introduction](#introduction)
-  - [Logo Usage Guidelines](#logo-usage-guidelines)
-    - [Font](#font)
-    - [Colors](#colors)
-      - [Main](#main)
-      - [Dark](#dark)
-      - [Light](#light)
-    - [Background](#background)
-    - [Clear Space and Sizing](#clear-space-and-sizing)
-    - [Unacceptable Modifications](#unacceptable-modifications)
-    - [Usage on the web](#usage-on-the-web)
-  - [Inquiries](#inquiries)
+- [Introduction](#introduction)
+- [Logo Usage Guidelines](#logo-usage-guidelines)
+  - [Font](#font)
+  - [Colors](#colors)
+    - [Main](#main)
+    - [Dark](#dark)
+    - [Light](#light)
+  - [Background](#background)
+  - [Clear Space and Sizing](#clear-space-and-sizing)
+  - [Unacceptable Modifications](#unacceptable-modifications)
+  - [Usage on the web](#usage-on-the-web)
+- [Inquiries](#inquiries)
 
 ## Introduction
 
