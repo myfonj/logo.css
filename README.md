@@ -6,8 +6,7 @@
   - [Colors](#colors)
   - [Background](#background)
   - [Clear Space and Sizing](#clear-space-and-sizing)
-  - [Unacceptable Modifications
-    ](#unacceptable-Modifications)
+  - [Unacceptable Modifications](#unacceptable-modifications)
   - [Usage on the web](#usage-on-the-web)
 - [Inquiries](#inquiries)
 
@@ -46,7 +45,7 @@ The dark colorway of the logo. It uses black `#000000` as background color and w
 
 #### Light
 
-The light colorway of the logo. It uses white `#FFFFFF` as background color and black `#000000` as font color. This logo should only be used on dark background sto ensure accessibility.
+The light colorway of the logo. It uses white `#FFFFFF` as background color and black `#000000` as font color. This logo should only be used on dark backgrounds to ensure accessibility.
 
 ### Background
 
