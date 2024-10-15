@@ -44,7 +44,7 @@ The dark variant of the logo. It uses black `#000000` as the background color an
 
 #### Light
 
-The light variant of the logo. It uses white `#FFFFFF` as background color and black `#000000` as font color. This logo should only be used on dark backgrounds to ensure accessibility.
+The light variant of the logo. It uses white `#FFFFFF` as the background color and black `#000000` as the font color. This logo should only be used on dark backgrounds to ensure accessibility.
 
 ### Background
 
