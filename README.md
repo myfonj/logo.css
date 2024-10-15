@@ -63,7 +63,7 @@ The colors, fonts, and sizes of the logo and its variations have been carefully 
 - **Change colors and background** while maintaining a proper contrast ratio and legibility
 - **Rotate and scale** the logo as you need
 
-#### Do's
+#### Don'ts
 
 - **Do not distort** the logo by stretching or squashing it
 - **Do not add any effects** such as shadows, gradients, or outlines to the logo
