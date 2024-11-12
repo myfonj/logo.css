@@ -20,7 +20,7 @@ Whilst investigating new ways for how to properly version CSS to better visualiz
 
 Together with the community the CSS-Next Community Group started [collecting ideas for a new logo](https://github.com/CSS-Next/css-next/issues/105) and started working on improving some of the drafts that had been made. After quite a few iterations this is the final result.
 
-![CSS Logo](css.png)
+<img src="css.png" width="350"/>
 
 ## Logo Usage Guidelines
 
