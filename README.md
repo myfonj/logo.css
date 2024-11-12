@@ -36,7 +36,7 @@ The logo comes in three variants so it can be used in any scenario.
 
 #### Main
 
-The main logo uses pinkish `#E5007C` as the background color and white `#FFFFFF` as the font color.
+The main logo uses purple `rebeccapurple`, `#663399` or `#639` as the background color and white `#FFFFFF` as the font color.
 
 #### Dark
 
