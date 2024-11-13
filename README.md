@@ -20,7 +20,7 @@ Whilst investigating new ways for how to properly version CSS to better visualiz
 
 Together with the community the CSS-Next Community Group started [collecting ideas for a new logo](https://github.com/CSS-Next/css-next/issues/105) and started working on improving some of the drafts that had been made. Javi Aguilar ([@itsjavi](https://github.com/itsjavi)) submitted [their idea](https://itsjavi.com/projects/new-css-logo/) and it was full of nice CSS call-outs and [fit well with other web language logos](https://github.com/CSS-Next/css-next/issues/105#issuecomment-2288115145) like JS, TS and WA. After quite a few iterations this is the final result, with the wonderful CSS color [`rebeccapurple`](https://meyerweb.com/eric/thoughts/2014/06/19/rebeccapurple/).
 
-<img src="css.png" width="350"/>
+<img src="css.svg" width="350"/>
 
 ## Logo Usage Guidelines
 
