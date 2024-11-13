@@ -18,7 +18,7 @@ For well over a decade now this shield served as a logo for the CSS language, bu
 
 Whilst investigating new ways for how to properly version CSS to better visualize the evolution of the language the CSS-Next Community Group, in addition to the [new CSS levels](https://github.com/CSS-Next/css-next/discussions/92), started working on a newly more generalized logo that can represents CSS as a whole rather than only version 3.
 
-Together with the community the CSS-Next Community Group started [collecting ideas for a new logo](https://github.com/CSS-Next/css-next/issues/105) and started working on improving some of the drafts that had been made. After quite a few iterations this is the final result.
+Together with the community the CSS-Next Community Group started [collecting ideas for a new logo](https://github.com/CSS-Next/css-next/issues/105) and started working on improving some of the drafts that had been made. Javi Aguilar ([@itsjavi](https://github.com/itsjavi)) submited [their idea](https://itsjavi.com/projects/new-css-logo/) and it was full of nice CSS callouts and [fit well with other web language logos](https://github.com/CSS-Next/css-next/issues/105#issuecomment-2288115145) like JS, TS and WA. After quite a few iterations this is the final result.
 
 <img src="css.png" width="350"/>
 
